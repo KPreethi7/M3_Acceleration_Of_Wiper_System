@@ -11,3 +11,4 @@
 [![Build-Linux CI](https://github.com/KPreethi7/M3_Acceleration_Of_Wiper_System/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/KPreethi7/M3_Acceleration_Of_Wiper_System/actions/workflows/Build%20on%20linux.yml)
 
 # Cpp check analysis
+[![Build-Linux CI](https://github.com/KPreethi7/M3_Acceleration_Of_Wiper_System/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/KPreethi7/M3_Acceleration_Of_Wiper_System/actions/workflows/Build%20on%20linux.yml)
