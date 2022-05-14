@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/68293891/168273161-83cf0dc9-ae2e-47a1-9147-7648e04c4a33.png)
 
 # WIPER MODE IS HIGH
-![image](https://user-images.githubusercontent.com/68293891/168273225-692f8e5e-c374-41c0-9209-7af299eac5b2.png)
+![orange led on](https://user-images.githubusercontent.com/68293891/168427248-94993ceb-dea8-43e1-94af-da5c04e3c430.png)
 
 # OFF STATE
 ![image](https://user-images.githubusercontent.com/68293891/168273281-9e7dbe0f-cd8e-46a9-b598-910c41a987b1.png)
